@@ -15,7 +15,7 @@ function register_taxonomy_issues() {
 		'update_item'       => __( 'Update Issue' ),
 		'add_new_item'      => __( 'Add New Issue' ),
 		'new_item_name'     => __( 'New Issue Name' ),
-		'menu_name'         => __( 'Issue' ),
+		'menu_name'         => __( 'Monthly Magazine Archives' ),
 	);
 	$args   = array(
 		'hierarchical'      => true, // make it hierarchical (like categories)
