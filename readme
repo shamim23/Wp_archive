@@ -1,0 +1,14 @@
+
+ 
+ 
+ - I decided to develop in a simple theme, so did not go hardcore on the UI aspect. 
+Theme -  wp-bootstrap
+
+ - Registered Taxonomy inside the themes folder - functions.php
+ - Modify archive.php, and add - template-archive.php to render the paginated issue years, and the respective. 
+
+ After you have added the code, create a new page and set it to the template - Archive Template.
+
+ 
+
+
